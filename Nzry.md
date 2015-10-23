@@ -18,7 +18,7 @@ according to the class definition.The relationship between a class and an object
 the same as that between a standard type and a variable of that type.
 
 
-@4
+#4
 If you create several objects of a given class, each object comes with storage for its
 own set of data. But all the objects use the one set of member functions. (Typically,
 methods are public and data members are private, but that’s a matter of policy, not
